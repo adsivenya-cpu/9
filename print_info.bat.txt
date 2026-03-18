@@ -1,4 +1,4 @@
 @echo off
-echo Сивеня А.Д.
+echo Сивеня А.ДД.
 echo Время: %time%
 pause
